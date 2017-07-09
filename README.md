@@ -6,7 +6,7 @@
 * Create new project. (Project Name: 070717_Lastname_Interface)
 * Create new package. (Package Name: Lastname_Task1)
 * Create the following activity setup java codes (A, B, C, D and Task1Demo)
-	A.java
+	> A.java
 	```
 	public interface A {
 	    void o();
