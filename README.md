@@ -61,4 +61,23 @@
 	}	
 	```
 * Debug the necessary java file in order to display the following output given
-	![Task1.5](https://octodex.github.com/images/yaktocat.png)
+	![Task1](https://github.com/clydeatuic/oop-act7-interface/blob/master/task1.PNG)
+
+## Task 2
+
+* Using the same project, create new package. (Package Name: Lastname_Task2)
+* Make sure to copy all the java codes from the previous package.
+* Update B interface by adding the following requirements:
+	> abstract methods r and s (these methods contains no paramater and doesn't return any value)
+	> abstract method t that accepts a string parameter
+	> abstract method u that accepts two string arguments and also return a string data type.
+* Create new class E that implements A and B interfaces and follow the method implementation requirements specified below:
+	Method | Method Body
+	------------ | -------------
+	o | Display a message "Class E implements method o
+	p | Display a message "Class E implements method p
+	q | Display a message "Class E implements method q
+	r | Display a message "Class E implements method r
+	s | Display a message "Class E implements method s
+* Create a Task2Demo class that prints the following output.	
+	![Task2](https://github.com/clydeatuic/oop-act7-interface/blob/master/task2.PNG)
