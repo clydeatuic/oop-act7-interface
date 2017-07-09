@@ -83,3 +83,19 @@
 
 1. Create a Task2Demo class that prints the following output.	
 	![Task2](https://github.com/clydeatuic/oop-act7-interface/blob/master/task2.PNG)
+
+## Task 3
+
+1. Using the same project, create new package. (Package Name: Lastname_Task3)
+1. Make sure to copy all the java codes from the previous package.
+1. Update C interface by adding the following requirement/s:
+	> abstract method v that accepts an integer parameter
+1. Create new class F that inherits class D and at the same time implements C interface. Follow the method implementation requirements specified below:
+
+	Method | Method Body
+	------------ | -------------
+	o | Display a message "Class F implements method o
+	v | Display a message "Class F implements method v
+
+1. Create a Task3Demo class that follows the procedure and prints the following output.
+	![Task3](https://github.com/clydeatuic/oop-act7-interface/blob/master/task3.PNG)
