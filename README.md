@@ -20,3 +20,43 @@
     	//no abstract methods yet...
 	}
 	```
+	```java
+	//C.java
+	public interface C {
+    	//no abstract methods yet...
+	}
+	```
+	```java
+	//D.java
+	public class D implements A{
+	    String d;
+	    D(){
+	        this.d = "No value";
+	    }
+	    D(String d){
+	        this.d = d;
+	    }
+	    @Override
+	    public void o(){
+	        System.out.println("Class D implements method o");
+	    }
+	    public void p(){
+	        System.out.println("Class D implements method p");
+	    }
+	    void q(){
+	        System.out.println("Class D implements method q");
+	    }
+	}
+	```
+	```java
+	//Task1Demo.java
+	public class Task1Demo {
+	    public static void main(String[] args) {
+	        D d = new D();
+	        System.out.println(d.getD());
+	        d.o();
+	        d.p();
+	        d.q();
+	    }
+	}	
+	```
