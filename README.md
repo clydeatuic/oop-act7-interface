@@ -14,3 +14,9 @@
 	    void q();
 	}
 	```
+	```java
+	//B.java
+	public interface B {
+    	//no abstract methods yet...
+	}
+	```
