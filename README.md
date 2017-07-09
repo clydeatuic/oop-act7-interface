@@ -60,3 +60,5 @@
 	    }
 	}	
 	```
+* Debug the necessary java file in order to display the following output given
+	![Task1.5](https://octodex.github.com/images/yaktocat.png)
